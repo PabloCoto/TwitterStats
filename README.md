@@ -1,5 +1,5 @@
 # TwitterStats
-App para Android que analiza tus followers en Twitter, proyecto final de SDM
+App para Android que analiza tus followers en Twitter.
 
 # Authors
 - [@pabloHeviaV](https://github.com/pabloHeviaV)
